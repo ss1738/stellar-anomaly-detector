@@ -45,9 +45,3 @@ The MMAE successfully segregated the anomaly class (red cluster on the right) fr
 1.  **Clone** this repository.
 2.  **Install dependencies** using the provided file: `pip install -r requirements.txt`
 3.  **Run** the main notebook: `Stellar_Anomaly_Detector (1).ipynb`
-
----
-
-## ✅ Final Launch!
-
-Once your `README.md` is updated, your project is professionally published and ready to be shared. Your final step is to **post the link on LinkedIn**! Good luck!
